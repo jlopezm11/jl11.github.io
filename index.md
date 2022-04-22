@@ -1,5 +1,5 @@
 # Joel López Molina
-![foto]()
+![foto](https://github.com/jlopezm11/jlopezm11.github.io/blob/main/Curr%C3%ADculum%20Joel%20L%C3%B3pez.jpg)
 ## Sistemas Microinformaticos y Redes
 ### Perfil Profesional
 Soy una persona activa y responsable, conmuchas ganas de aprender y trabajar en miámbito. Mi objetivo es poder ofrecer misconocimientos y poder aprender muchomas.
