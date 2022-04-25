@@ -1,6 +1,6 @@
 # Joel López Molina
 ## Sistemas Microinformaticos y Redes
-## <html> <img src="foto.jpg" width=250px> </html>
+## <img src="foto.jpg" width=250px>
 ### Perfil Profesional
 Soy una persona activa y responsable, conmuchas ganas de aprender y trabajar en miámbito. Mi objetivo es poder ofrecer misconocimientos y poder aprender muchomas.
 ### Mis Datos Personales   
