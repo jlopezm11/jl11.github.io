@@ -32,4 +32,5 @@ Secundaria (2016-2020) <br />
 - Habilidad a la hora de manejar cualquier software de todo tipo
 - Control en sistemas sin interfaz grafica
 - Identifico rapidamente los problemas en los sistemas
-
+## Portfolio
+- Este es un repositorio para cambiar la dirección IP: 
