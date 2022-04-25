@@ -33,8 +33,8 @@ Secundaria (2016-2020) <br />
 - Control en sistemas sin interfaz grafica
 - Identifico rapidamente los problemas en los sistemas
 ## Portfolio
-- Este es un repositorio para cambiar la dirección IP: https://github.com/jlopezm11/jlopezm11.github.io/tree/main/change_ip
-- Este es un repositorio para ver un juego hecho en pseudocodigo: https://github.com/jlopezm11/jlopezm11.github.io/tree/main/game_psint
-- Este es un repositorio para cerrar la sesión de conexiones en red en Windows: https://github.com/jlopezm11/jlopezm11.github.io/tree/main/close_session_win
+- Este es un repositorio para cambiar la dirección IP:jlopezm11.github.io/tree/main/change_ip
+- Este es un repositorio para ver un juego hecho en pseudocodigo: jlopezm11.github.io/tree/main/game_psint
+- Este es un repositorio para cerrar la sesión de conexiones en red en Windows: jlopezm11.github.io/tree/main/close_session_win
 
 
